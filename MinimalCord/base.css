@@ -118,6 +118,9 @@
 
 ::-webkit-input-placeholder, body, button, input, select, textarea { font-family: var(--font, "Roboto"), Whitney; }
 
+#app-mount .placeholder-37qJjk{font-weight:light;}
+
+
 #app-mount .tooltipBlack-PPG47z { background: var(--tooltips); color: var(--text-1); text-align: center; }
 
 #app-mount .tooltipBlack-PPG47z .tooltipPointer-3ZfirK { border-top-color: var(--tooltips); }
@@ -536,7 +539,7 @@
 
 #app-mount .layer-3QrUeG[aria-label*="SETTINGS"] .bda-slist li .bda-footer { padding: 10px; box-sizing: border-box; border: none; background: var(--settings-box-footer); }
 
-.theme-light #user-settings > div:nth-child(3) > div > div:nth-child(2) > div > div > div > div.contentColumn-2hrIYH.contentColumnDefault-1VQkGM > div > div > div:nth-child(2) > div > div:nth-child(2):after { content: "Work in progress, minor bugs"; position: absolute; right: 10px; top: 50%; font-weight: bold; color: #fff; transform: translateY(-50%); }
+.theme-light #user-settings > div:nth-child(3) > div > div:nth-child(2) > div > div > div > div.contentColumn-2hrIYH.contentColumnDefault-1VQkGM > div > div > div:nth-child(2) > div > div:nth-child(2):after { content: "Work in progress, minor bugs"; position: absolute; right: 10px; top: 50%; font-weight: light; color: #fff; transform: translateY(-50%); }
 
 #app-mount .membersWrap-2h-GB4 .scroller-2FKFPG::-webkit-scrollbar { display: none; }
 
@@ -744,7 +747,7 @@
 
 #app-mount .userPopout-3XzG_A .footer-1fjuF6 .quickMessage-1yeL4E { background: var(--user-popout-message); border: none; margin: 0 10px 10px 10px; box-sizing: border-box; width: calc(100% - 20px); }
 
-#app-mount .userPopout-3XzG_A .footer-1fjuF6 .quickMessage-1yeL4E::placeholder { text-transform: uppercase; font-weight: bold; letter-spacing: 1.5px; font-size: 12px; opacity: .7; }
+#app-mount .userPopout-3XzG_A .footer-1fjuF6 .quickMessage-1yeL4E::placeholder { text-transform: uppercase; font-weight: light; letter-spacing: 1.5px; font-size: 12px; opacity: .7; }
 
 #app-mount .userPopout-3XzG_A .footer-1fjuF6 .protip-YaFfgO { display: none; }
 
