@@ -113,7 +113,7 @@
     --spotify-green: #1db954;
     --spotify-green-dark: #168d40;
     --twitch-purple: #593695;
-    --twitch-purple-dark: #4e2f82;
+  hj  --twitch-purple-dark: #4e2f82;
 }
 
 ::-webkit-input-placeholder, body, button, input, select, textarea { font-family: var(--font, "Roboto"), Whitney; }
@@ -124,7 +124,8 @@
 #app-mount .title-eS5yk3 {font-weight:normal;}
 /*sidebar channel font*/
 #app-mount .name-3_Dsmg {font-weight:normal;}
-
+/*username in text*/
+#app-mount .username-_4ZSMR {font-weight:lighter;}
 
 #app-mount .tooltipBlack-PPG47z { background: var(--tooltips); color: var(--text-1); text-align: center; }
 
