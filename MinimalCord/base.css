@@ -118,7 +118,9 @@
 
 ::-webkit-input-placeholder, body, button, input, select, textarea { font-family: var(--font, "Roboto"), Whitney; }
 
+/*Change font weight of the message typing bar*/
 #app-mount .placeholder-37qJjk{font-weight:light;}
+#app-mount .username-container{font-weight:light;}
 
 
 #app-mount .tooltipBlack-PPG47z { background: var(--tooltips); color: var(--text-1); text-align: center; }
