@@ -315,7 +315,7 @@
 
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi.dividerRed-MKoLlr { color: var(--red); }
 
-/*#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .containerCozy-jafyvG { background: var(--message-box); margin: 20px 12px 0 20px; border-radius: 5px; box-shadow: var(--box-shadow); min-height: calc(var(--chat-avatar-size) + 45px); }
+/*
 */
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .containerCozy-jafyvG .contentCozy-3XX413 { margin-left: calc(var(--chat-avatar-size) + 40px); }
 
