@@ -131,8 +131,7 @@
 /*#app-mount .layer-v9HyYc*/
 
 /*Remove Horizontal border from bottom of screen*/
- .form-2fGMdU {border-top:0px solid var(--background-modifier-accent) !important;}
-.container-3FPLD3
+#app-mount .form-2fGMdU {border-top:0px solid var(--background-modifier-accent) !important;}
 
 #app-mount .tooltipBlack-PPG47z { background: var(--tooltips); color: var(--text-1); text-align: center; }
 
