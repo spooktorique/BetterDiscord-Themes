@@ -309,7 +309,7 @@
 
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .markup-2BOw-j > a, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .markup-2BOw-j strong > a, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .markup-2BOw-j em > a { color: rgba(var(--accent), 1); text-decoration: underline; }
 
-#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi { margin-top: 20px; margin-left: 20px; color: var(--channels-default); }
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi { margin-top: 15px; margin-left: 15px; color: var(--channels-default); }
 
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi .dividerContent-2L12VI:before, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi .dividerContent-2L12VI:after { content: none; }
 
@@ -329,7 +329,7 @@
 
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .containerCozy-jafyvG .dividerEnabled-2TTlcf { display: none; }
 
-#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .containerCozy-jafyvG:last-child { margin-bottom: 10px; }
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .containerCozy-jafyvG:last-child { margin-bottom: 5px; }
 
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .inner-zqa7da { background: var(--background-1); }
 
