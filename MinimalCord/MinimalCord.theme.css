@@ -1,14 +1,14 @@
 /**
- * @name MinimalCord
- * @author Gibbu#1211
- * @version 1.0.0
- * @description Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes.
- * @source https://github.com/Gibbu/BetterDiscord-Themes/tree/master/MinimalCord
- * @website https://www.gibbu.me
+ * @name Slate
+ * @author Victorique#001
+ * @version 0.1.1
+ * @description Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes. Built upon the project by Gibbu#1211
+ * @source https://spooktorique.github.com/discord/BetterDiscord-Themes/MinimalCord/base.css
+ * @website https://www.headpats.org
 */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
-@import url("https://gibbu.github.io/BetterDiscord-Themes/MinimalCord/base.css");
+@import url("https://spooktorique.github.io/BetterDiscord-Themes/MinimalCord/base.css");
 
 /* Black Box user tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
