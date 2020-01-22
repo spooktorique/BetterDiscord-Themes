@@ -68,7 +68,7 @@
     --settings-separator: #ddd;
     --dropdown: #fff;
     --dropdown-item-hover: #f8f8f8;
-    --message-box: #fff;
+    --message-box: #fafafa;
     --message-box-divider: #ddd;
     --message-embed: #eee;
     --message-button: var(--message-box);
