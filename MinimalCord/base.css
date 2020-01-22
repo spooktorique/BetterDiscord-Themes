@@ -46,7 +46,7 @@
 }
 
 .theme-light {
-    --foreground-1: var(--accent);
+    --foreground-1: #ad667b;
     --foreground-2: #f6f6f6;
     --foreground-divider: #dadada;
     --background-1: #f8f8f8;
@@ -61,22 +61,22 @@
     --user-popout-body: #f8f8f8;
     --user-popout-message: #e5e5e5;
     --settings-box: var(--message-box);
-    --settings-box-hover: var(--accent);
+    --settings-box-hover: #ad667b;
     --settings-box-footer: #f5f5f5;
     --settings-input: var(--settings-box-footer);
     --settings-paginator: rgba(0, 0, 0, 0.05);
     --settings-separator: #ddd;
     --dropdown: #fff;
-    --dropdown-item-hover: var(--accent);
+    --dropdown-item-hover: #ad667b;
     --message-box: #fafafa;
     --message-box-divider: #ddd;
     --message-embed: #eee;
     --message-button: var(--message-box);
     --server-background: #fafafa;
-    --server-selected: var(--accent);
+    --server-selected: #ad667b;
     --server-hovered: #f8f8f8;
     --server-folders: var(--server-background);
-    --search-filter-hover: var(--accent);
+    --search-filter-hover: #ad667b;
     --search-result-header: #f8f8f8;
     --channel-selected: #ad667b;
     --channel-hovered: #f8f8f8;
