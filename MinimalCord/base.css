@@ -46,7 +46,7 @@
 }
 
 .theme-light {
-    --foreground-1: #f8f8f8;
+    --foreground-1: #f6f6f6;
     --foreground-2: #f6f6f6;
     --foreground-divider: #dadada;
     --background-1: #f8f8f8;
@@ -78,7 +78,7 @@
     --server-folders: var(--server-background);
     --search-filter-hover: #f5f5f5;
     --search-result-header: #f8f8f8;
-    --channel-selected: #fafafa;
+    --channel-selected: #ad667b;
     --channel-hovered: #f8f8f8;
     --modal-connection: #f8f8f8;
     --modal-list: #f66;
