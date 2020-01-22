@@ -78,7 +78,7 @@
     --server-folders: var(--server-background);
     --search-filter-hover: var(--accent);
     --search-result-header: #f8f8f8;
-    --channel-selected: var(--accent);
+    --channel-selected: #ad667b;
     --channel-hovered: #f8f8f8;
     --modal-connection: #f8f8f8;
     --modal-list: #f66;
